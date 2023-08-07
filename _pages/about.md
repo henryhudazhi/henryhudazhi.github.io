@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Zhejiang University ImagingLab</a>. +86 13645243585.
+subtitle: <a href='#'>Zhejiang University ImagingLab </a>. +86 13645243585.
 
 profile:
   align: right
